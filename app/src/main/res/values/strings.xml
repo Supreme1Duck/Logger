@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Logger</string>
+    <string name="externalstorage">ExternalStorage</string>
+    <string name="internalstorage">InternalStorage</string>
+</resources>
